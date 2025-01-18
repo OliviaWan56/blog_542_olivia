@@ -50,7 +50,9 @@ Focus on Fundamentals: Mastering the basics of Python, SQL, and statistics will 
 Don’t Fear Failure: Mistakes are inevitable, but they’re also the best teachers. Each error is an opportunity to learn.
 Build a Portfolio: Having tangible projects to showcase is invaluable, whether you’re applying for jobs or networking with peers.
 Join a Community: Whether it’s online forums, local meetups, or study groups, learning alongside others makes the journey less daunting and more enjoyable.
-The Bigger Picture – Why It’s Worth It
+
+**The Bigger Picture – Why It’s Worth It**
+
 Today, as a data scientist, I work on projects that have tangible impacts. From optimizing supply chains to building recommendation systems, the work is both challenging and rewarding. What I love most about data science is its versatility—no matter the industry, there’s always a way to apply data-driven insights.
 
 This journey has not only shaped my career but also my perspective. I’ve learned to approach problems systematically, embrace uncertainty, and never stop asking questions. Data science has taught me that the process is just as important as the outcome.
